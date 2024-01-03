@@ -1,0 +1,333 @@
+
+All links: 
+wikipedia.org/wiki/Vikipedija
+wikipedia.org
+wikipedia.com
+wikipedia.org
+http://www.wikipedia.org
+
+
+Repeated words and/or links in a cross-reference table: 
+              1 :    4 : 8 8 25 83 
+             10 :    2 : 29 83 
+             15 :    3 : 4 4 10 
+             18 :    2 : 12 15 
+              2 :    2 : 14 120 
+           2001 :    3 : 10 22 80 
+           2003 :    2 : 10 24 
+           2005 :    2 : 26 75 
+           2006 :    2 : 27 83 
+           2008 :    2 : 29 38 
+           2010 :    2 : 14 31 
+           2012 :    2 : 12 15 
+           2014 :    2 : 14 16 
+              5 :    2 : 14 66 
+       Atviroji :    2 : 72 99 
+    Audiopedija :    2 : 70 72 
+             Be :    3 : 88 111 141 
+             CD :    2 : 60 95 
+        Commons :    3 : 30 38 113 
+       Creative :    4 : 30 38 38 113 
+            DVD :    3 : 46 60 95 
+   Dažniausiai :    2 : 128 133 
+             ES :    2 : 12 14 
+   Elektroninė :    4 : 44 48 50 105 
+            FSF :    2 : 38 38 
+           GFDL :    2 : 38 38 
+         Google :    2 : 56 105 
+            JAV :    9 : 10 12 14 14 14 14 14 15 75 
+           Joje :    3 : 4 75 108 
+            Kai :    2 : 141 141 
+     Laisvosios :    3 : 66 80 95 
+      Nuomonių :    2 : 106 148 
+    Pavyzdžiui :    3 : 14 83 105 
+       Pirmieji :    4 : 22 23 25 26 
+       Praktika :    2 : 144 147 
+Spausdintinėse :    2 : 44 90 
+            Tai :    3 : 75 99 108 
+           Taip :    2 : 8 77 
+        Tačiau :    7 : 14 50 80 80 130 141 150 
+       Teigiama :    2 : 144 147 
+          Tokiu :    2 : 99 128 
+    Vikimedijos :    4 : 10 27 38 40 
+     Vikipedija :   26 : 2 4 10 12 12 14 15 30 31 40 56 56 66 72 75 80 80 83 83 93 108 111 128 130 144 147 
+   Vikipedijoje :   10 : 23 52 75 80 86 90 99 102 102 150 
+    Vikipedijos :   32 : 8 10 10 14 14 14 16 19 22 24 25 25 25 26 29 35 35 38 38 40 41 68 95 97 105 115 124 131 133 138 138 141 
+   Vikipedijose :    2 : 99 141 
+    Vikipediją :    4 : 4 14 60 64 
+           Visa :    2 : 35 66 
+    angliškoji :    2 : 12 15 
+         anglų :    3 : 10 95 105 
+           apie :    6 : 14 14 68 75 75 75 
+       apribojo :    2 : 12 15 
+             ar :   20 : 35 40 60 72 72 75 75 77 80 102 113 115 121 124 141 141 144 147 147 150 
+           arba :   10 : 52 60 72 90 118 119 120 128 130 147 
+        atvejai :    2 : 147 150 
+         atveju :    4 : 95 99 115 128 
+       autoriai :    4 : 88 111 138 138 
+      autoriaus :    2 : 111 115 
+     autorinių :    3 : 12 12 15 
+       autorių :    3 : 40 136 136 
+             be :    7 : 77 90 99 111 115 136 147 
+            bei :   22 : 4 6 14 14 14 31 35 72 80 80 86 88 88 108 119 121 133 136 136 144 150 150 
+        bendras :    2 : 25 29 
+     bendrovės :    2 : 14 14 
+  bendruomenės :    3 : 40 40 141 
+            bet :    3 : 38 93 128 
+   bibliotekoje :    2 : 90 113 
+            bus :    3 : 66 72 72 
+           buvo :    6 : 10 16 38 75 75 141 
+          būdu :    2 : 128 147 
+          būti :    7 : 35 35 50 50 99 115 147 
+         būtų :    2 : 40 128 
+              d :    5 : 10 10 12 12 15 
+       dalyviai :    4 : 118 119 120 123 
+       dalyvių :    2 : 123 136 
+          dalį :    2 : 14 105 
+            dar :    3 : 77 88 128 
+         darbą :    2 : 40 141 
+           daug :    4 : 52 90 108 141 
+        daugiau :    9 : 4 14 40 83 83 86 120 120 141 
+        dažnai :    2 : 56 77 
+diletantiškumo :    2 : 136 144 
+     duomenimis :    2 : 8 14 
+           dėl :   10 : 26 77 90 133 136 136 141 144 150 150 
+      ekspertų :    2 : 10 28 
+    elektronine :    4 : 72 90 95 111 
+  enciklopedija :    5 : 4 72 95 99 115 
+ enciklopedijas :    4 : 6 80 83 113 
+enciklopedijoje :    6 : 35 50 50 75 77 77 
+ enciklopedijos :   12 : 35 44 52 66 77 80 95 95 105 111 115 115 
+enciklopedijose :    4 : 44 80 90 108 
+ enciklopediją :    4 : 6 64 72 144 
+      esančią :    2 : 52 72 
+           esą :    3 : 133 144 147 
+         faktai :    2 : 144 147 
+         fondai :    2 : 14 14 
+         fondas :    3 : 10 38 40 
+          forma :   10 : 35 44 46 48 50 60 70 72 90 105 
+           gali :   11 : 50 50 88 99 118 121 122 128 128 128 144 
+         galima :   16 : 38 60 72 80 86 86 88 99 99 102 105 111 111 113 128 130 
+     galimybių :    2 : 95 95 
+          gauti :    3 : 60 72 90 
+        greitai :    4 : 44 50 50 141 
+      ieškomos :    2 : 86 88 
+       ieškoti :    3 : 50 52 90 
+  iliustracijas :    2 : 111 111 
+    informacija :    4 : 38 44 50 90 
+   informacijos :    8 : 50 50 77 80 86 99 136 144 
+   informaciją :   12 : 44 52 72 75 77 99 99 108 111 141 144 150 
+      internete :    2 : 56 105 
+      interneto :   11 : 4 6 6 40 54 58 93 95 105 141 141 
+             ir :   55 : 6 12 14 14 14 22 35 35 35 35 36 38 40 40 44 52 56 56 60 72 72 75 75 78 80 80 80 80 88 90 95 99 99 105 111 111 111 111 122 133 133 134 136 136 136 138 138 138 141 144 144 144 145 150 150 
+            iš :   10 : 6 14 14 14 14 93 123 136 147 150 
+      išsamumu :    2 : 80 80 
+   išsisaugoti :    2 : 60 95 
+             ji :    3 : 80 128 133 
+            jie :    5 : 8 111 119 138 147 
+             jo :    2 : 14 40 
+            jog :    2 : 8 23 
+           joje :    4 : 80 99 113 113 
+            jos :    4 : 6 52 102 115 
+           juos :    2 : 115 121 
+            ją :    3 : 52 60 86 
+            jį :    2 : 40 102 
+            jų :   11 : 14 14 38 40 40 86 88 118 133 138 141 
+            kad :   11 : 8 35 38 80 128 141 141 144 147 147 150 
+        kadangi :    3 : 77 99 99 
+            kai :    2 : 75 144 
+           kaip :   13 : 10 14 22 35 56 56 60 64 77 88 90 120 141 
+          kalba :    7 : 10 26 66 95 99 102 102 
+       kalbomis :    6 : 4 6 10 99 100 103 
+         kartų :    2 : 83 141 
+            kas :    5 : 4 14 52 66 75 
+         keisti :    5 : 111 118 122 123 130 
+           kiti :    3 : 123 136 147 
+        kitomis :    3 : 10 56 103 
+          kitų :    6 : 44 88 128 128 144 147 
+    kompiuterio :    2 : 93 118 
+           kone :    3 : 56 75 75 
+      kopijuoti :    3 : 38 52 111 
+       kritikai :    2 : 133 147 
+             kt :    2 : 12 14 
+          kuria :    5 : 6 50 102 119 144 
+        kuriama :    2 : 72 80 
+       kuriamas :    2 : 50 80 
+        kuriame :    2 : 21 97 
+        kuriami :    3 : 28 138 141 
+          kurie :    3 : 72 111 141 
+        kuriuos :    2 : 6 95 
+         kurių :    3 : 44 123 136 
+          kurti :    4 : 6 118 128 130 
+       labdaros :    2 : 14 14 
+       laikinai :    2 : 12 15 
+          laiko :    2 : 52 72 
+         laiką :    2 : 141 141 
+        laisvai :    3 : 21 38 93 
+     lankytojai :    2 : 6 118 
+     lankytojų :    2 : 4 14 
+       leidimą :    2 : 68 115 
+     leidiniams :    2 : 80 147 
+       leidžia :    6 : 44 50 105 108 144 150 
+      licencija :    2 : 36 113 
+     licenzijos :    2 : 30 40 
+        lėšų :    2 : 14 14 
+              m :   25 : 4 8 10 10 12 12 14 14 14 15 16 21 22 23 24 25 26 27 28 29 30 31 38 75 83 
+      medžiaga :    2 : 35 102 
+     medžiagą :    9 : 44 52 52 88 90 111 111 150 150 
+           metu :    5 : 56 56 64 72 95 
+         minimi :    2 : 77 88 
+            mln :    7 : 4 14 14 14 14 25 29 
+           mlrd :    2 : 4 4 
+   mokslininkų :    3 : 6 80 144 
+         mokslo :    2 : 144 144 
+        mokėti :    2 : 95 113 
+       mėnesį :    2 : 4 14 
+   naudojimasis :    3 : 109 115 115 
+        naudoti :    4 : 25 111 111 115 
+       naudotis :    3 : 64 93 95 
+     naudotojai :    2 : 6 141 
+     naudotojų :    4 : 40 122 138 141 
+          nauji :    2 : 8 141 
+             ne :    4 : 10 38 50 90 
+         negali :    5 : 64 80 136 141 144 
+           negu :    6 : 6 83 83 108 120 141 
+       nemažai :    2 : 99 144 
+       nemažus :    2 : 95 113 
+      nemokamai :    2 : 111 113 
+      nemokamas :    2 : 111 115 
+       nereikia :    2 : 77 128 
+        neretai :    2 : 150 150 
+            nes :    3 : 80 113 144 
+            net :    2 : 75 130 
+    netikslumai :    2 : 133 134 
+         neturi :    2 : 40 118 
+        niekada :    2 : 23 77 
+         norint :    2 : 113 128 
+           nors :    3 : 102 102 108 
+            nuo :    3 : 80 119 128 
+         nuolat :    4 : 80 93 138 138 
+       nuomonė :    2 : 144 144 
+       nuorodų :    2 : 88 90 
+     nuotraukas :    2 : 111 111 
+          nėra :    7 : 44 88 90 90 123 141 144 
+      paaukotų :    2 : 14 14 
+          pagal :    3 : 38 40 138 
+       paprasta :    2 : 52 90 
+      paprastai :    2 : 66 115 
+       pasaulio :    2 : 64 80 
+       pasiekti :    3 : 86 90 144 
+   pasinaudojus :    2 : 88 102 
+      pasitaiko :    2 : 80 147 
+            pat :    9 : 8 56 60 72 75 77 95 111 141 
+     pateikiama :    5 : 44 50 90 99 102 
+     pateikiami :    3 : 86 102 147 
+    pateikiamos :    2 : 80 136 
+    pateikiamą :    3 : 44 111 150 
+     pateikiant :    2 : 35 144 
+       pateikti :    3 : 35 108 144 
+      pateiktą :    2 : 99 150 
+           pats :    2 : 40 124 
+          patį :    2 : 12 105 
+    pavyzdiniai :    2 : 72 141 
+    pavyzdžiui :    3 : 50 75 95 
+            per :    3 : 8 66 86 
+     peržengia :    2 : 25 29 
+        pinigus :    2 : 95 113 
+       pradėti :    2 : 26 128 
+     prancūzų :    2 : 102 105 
+           prie :    8 : 8 8 30 44 54 58 88 124 
+       prieigą :    3 : 12 15 93 
+      prieinama :    4 : 38 56 72 93 
+         prieš :    4 : 12 12 15 40 
+      priklauso :    2 : 40 40 
+       prilygti :    2 : 80 136 
+      projektai :    3 : 10 28 136 
+      projektas :    6 : 10 21 22 40 80 141 
+       projekto :    3 : 25 29 136 
+  protestuojant :    2 : 12 12 
+            pvz :    4 : 102 102 102 118 
+          rasti :    4 : 80 86 99 102 
+          rašo :    2 : 21 111 
+   reikalavimas :    2 : 22 111 
+         reikia :    2 : 90 95 
+       reklamos :    2 : 23 136 
+           rodo :    2 : 144 147 
+         sausio :    3 : 10 12 15 
+           savo :    5 : 80 83 118 130 136 
+     sektoriaus :    2 : 136 136 
+       siekiama :    3 : 40 72 108 
+       skaityti :    4 : 38 52 72 103 
+      skaičius :    2 : 25 29 
+    skirtingais :    2 : 4 124 
+         skyrė :    2 : 14 14 
+     spausdinti :    2 : 64 66 
+   sprendžiama :    2 : 35 40 
+       statusą :    2 : 122 123 
+    straipsniai :    5 : 14 72 88 141 141 
+ straipsniai“ :    3 : 88 88 102 
+     straipsnio :    7 : 88 88 102 128 128 128 150 
+    straipsnius :    5 : 115 118 119 130 141 
+    straipsnių :   17 : 4 25 29 44 66 80 80 83 115 120 130 133 138 138 138 141 150 
+             su :    4 : 38 44 88 141 
+   sugrąžinti :    2 : 128 128 
+        sukurti :    4 : 10 72 88 128 
+       sukurtus :    2 : 128 128 
+     susijusią :    2 : 44 88 
+      svetainę :    2 : 105 128 
+       sąvokų :    2 : 86 99 
+            tai :    3 : 35 77 128 
+           taip :    7 : 56 60 72 75 95 111 141 
+        taisyti :    2 : 6 141 
+            tam :    4 : 86 128 138 144 
+          tampa :    2 : 27 119 
+     tarpusavio :    2 : 35 35 
+        tačiau :    2 : 8 40 
+        teisių :    4 : 12 12 15 136 
+         teksto :    2 : 86 105 
+        tekstus :    2 : 111 128 
+        tekstą :    3 : 105 111 128 
+           tiek :    3 : 90 111 111 
+            tik :    9 : 6 35 38 66 72 80 115 128 130 
+             to :    6 : 88 90 111 141 141 147 
+         todėl :    4 : 80 93 113 141 
+          tokie :    3 : 88 147 150 
+         tokią :    2 : 72 90 
+          tomų :    2 : 44 66 
+     tradicines :    2 : 6 80 
+         trinti :    2 : 121 141 
+            tuo :    2 : 14 64 
+           turi :    4 : 35 115 123 147 
+        turinio :    2 : 8 80 
+        turinį :    2 : 21 141 
+            tą :    3 : 12 99 105 
+  tūkstančių :    2 : 130 144 
+            už :    4 : 66 95 111 138 
+      užsienio :    2 : 99 100 
+       valandą :    2 : 75 75 
+       vandalų :    2 : 141 141 
+         vardai :    2 : 40 102 
+        versija :    4 : 62 93 102 128 
+       versiją :    2 : 95 128 
+           vien :    4 : 35 72 90 136 
+         vieną :    2 : 128 144 
+           viso :    2 : 14 147 
+    visuomenės :    2 : 8 72 
+     vokiečių :    4 : 66 68 95 105 
+            yra :   21 : 19 38 40 52 75 77 90 93 93 93 95 95 102 115 118 130 133 141 141 144 147 
+             į :   10 : 35 38 38 40 50 105 128 136 138 144 
+      įkuriama :    2 : 21 22 
+       įrašus :    2 : 111 128 
+     įstatymų :    2 : 12 12 
+     įvairiose :    2 : 66 99 
+      įvairių :    2 : 14 72 
+       įvykiai :    3 : 19 75 77 
+          Šiuo :    2 : 56 72 
+        šimtai :    2 : 130 144 
+        žinias :    2 : 35 141 
+        žinių :    4 : 14 99 99 144 
+       žmonių :    7 : 40 108 128 130 141 144 144 
+       žodžio :    2 : 6 6 
+            – :   31 : 4 6 10 21 22 23 24 25 26 27 28 29 30 31 35 35 72 77 83 95 95 108 111 111 111 111 115 115 120 128 150 
+   „Google“ :    3 : 14 14 14 
+     „susiję :    4 : 88 88 88 102 
